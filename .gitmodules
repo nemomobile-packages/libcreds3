@@ -1,3 +1,0 @@
-[submodule "upstream"]
-	path = upstream
-	url = http://git.gitorious.org/meego-platform-security/libcreds3.git
